@@ -30,6 +30,25 @@ The **CrazyBaby Luna** project is a one-page landing website promoting the **Lun
 ### 4. **Footer with Legal Information**
    At the bottom, the site includes a footer with copyright information, terms of use, and privacy policy links, ensuring legal compliance and transparency.
 
+## 📦 Steps to Run the Project
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/maxmodrr/crazybaby_landing.git
+   cd crazybaby__landing
+   ```
+
+2. **Install dependensies**
+   ```bash
+   npm i
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm start
+   ```
+
 ---
 
 You're welcome to explore the project!
